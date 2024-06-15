@@ -4,10 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - MainLight
-  - CinemachineTarget
-  - ScreenCamera
-  - cockpit_capitalLaser
+  - TilesStack
   layers:
   - Default
   - TransparentFX
@@ -22,7 +19,7 @@ TagManager:
   - Occluder
   - Camera
   - MainCameraOnly
-  - 
+  - Ground
   - 
   - 
   - 
